@@ -21,5 +21,6 @@ CMD [ \
 	"-batch", \
 	"-repeat", "watch", \
 	"-copyonconflict", \
+	"-numericids", \
 	"-prefer", "newer" \
 ]
